@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "name": "JarPlay Store",
+  "updated": 1793163793.8955345,
+  "categories": [
+    "Action, Platformer"
+  ],
+  "games": [
+    {
+      "id": "aladdin",
+      "name": "Aladdin",
+      "vendor": "Nintendo",
+      "version": "",
+      "category": "Action, Platformer",
+      "description": "",
+      "system": "nes",
+      "file": "games/aladdin/Aladdin (Unl).nes",
+      "size": 524304,
+      "build": "8f06e86f92",
+      "game_id": "nes_Aladdin",
+      "icon": "games/aladdin/icon.png",
+      "poster": "games/aladdin/poster.jpg",
+      "featured": true,
+      "added": 1793163788.4793003,
+      "updated": 1793163788.4793003
+    }
+  ]
+}
