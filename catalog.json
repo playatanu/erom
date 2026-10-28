@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "name": "JarPlay Store",
-  "updated": 1793165348.0341742,
+  "updated": 1793168710.7770228,
   "categories": [
     "Action",
     "Platformer"
@@ -26,7 +26,7 @@
       "poster": "games/aladdin/poster.jpg",
       "featured": true,
       "added": 1793163788.4793003,
-      "updated": 1793163788.4793003
+      "updated": 1793168709.7137268
     },
     {
       "id": "iron-man-2",
