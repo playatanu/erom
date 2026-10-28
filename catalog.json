@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "name": "JarPlay Store",
-  "updated": 1793169555.839633,
+  "updated": 1793172545.5789206,
   "categories": [
     "Action",
     "Platformer"
@@ -24,6 +24,7 @@
       "game_id": "nes_Aladdin",
       "icon": "games/aladdin/icon.png",
       "poster": "games/aladdin/poster.jpg",
+      "poster_auto": true,
       "featured": true,
       "added": 1793163788.4793003,
       "updated": 1793168709.7137268
@@ -44,9 +45,10 @@
       "game_id": "Iron_Man_2-df155358",
       "icon": "games/iron-man-2/icon.png",
       "poster": "games/iron-man-2/poster.jpg",
+      "poster_auto": false,
       "featured": true,
       "added": 1793165344.230209,
-      "updated": 1793169549.4201734
+      "updated": 1793172541.161671
     }
   ]
 }
