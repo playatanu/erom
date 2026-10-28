@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "name": "JarPlay Store",
-  "updated": 1793172545.5789206,
+  "updated": 1793172889.3572588,
   "categories": [
     "Action",
     "Platformer"
@@ -49,6 +49,25 @@
       "featured": true,
       "added": 1793165344.230209,
       "updated": 1793172541.161671
+    },
+    {
+      "id": "the-jungle-book",
+      "name": "The Jungle Book",
+      "vendor": "Nintendo",
+      "version": "",
+      "categories": [],
+      "description": "",
+      "system": "nes",
+      "file": "games/the-jungle-book/Jungle Book, The (USA).nes",
+      "size": 262160,
+      "build": "a2d12631f4",
+      "game_id": "nes_Jungle_Book_The",
+      "icon": "games/the-jungle-book/icon.png",
+      "poster": "games/the-jungle-book/poster.jpg",
+      "poster_auto": true,
+      "featured": false,
+      "added": 1793172886.04065,
+      "updated": 1793172886.04065
     }
   ]
 }
