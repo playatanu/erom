@@ -1,9 +1,10 @@
 {
   "schema": 1,
   "name": "JarPlay Store",
-  "updated": 1793163793.8955345,
+  "updated": 1793165348.0341742,
   "categories": [
-    "Action, Platformer"
+    "Action",
+    "Platformer"
   ],
   "games": [
     {
@@ -11,7 +12,10 @@
       "name": "Aladdin",
       "vendor": "Nintendo",
       "version": "",
-      "category": "Action, Platformer",
+      "categories": [
+        "Action",
+        "Platformer"
+      ],
       "description": "",
       "system": "nes",
       "file": "games/aladdin/Aladdin (Unl).nes",
@@ -23,6 +27,26 @@
       "featured": true,
       "added": 1793163788.4793003,
       "updated": 1793163788.4793003
+    },
+    {
+      "id": "iron-man-2",
+      "name": "Iron Man 2",
+      "vendor": "Gameloft SA",
+      "version": "1.0.7",
+      "categories": [
+        "Action"
+      ],
+      "description": "",
+      "system": "j2me",
+      "file": "games/iron-man-2/IronMan2_Samsung_S8000_EN_IGP_EU_TS_107.jar",
+      "size": 1097380,
+      "build": "0bbc03a95c",
+      "game_id": "Iron_Man_2-df155358",
+      "icon": "games/iron-man-2/icon.png",
+      "poster": "games/iron-man-2/poster.jpg",
+      "featured": true,
+      "added": 1793165344.230209,
+      "updated": 1793165344.230209
     }
   ]
 }
